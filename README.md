@@ -1,7 +1,7 @@
 ![logo](https://github.com/Nazish-kiran/Nazish-kiran/blob/main/Black%20%26%20Gold%20Elegant%20Personal%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Nazish Kiran</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align ="right" alt="coding girl" width = "400" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3K8G2UqDVSJBopWzF2q9PCrd-zMMKo1cxbg&s"
+<img align ="right" alt="coding girl" width = "400" src ="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazish-kiran&label=Profile%20views&color=0e75b6&style=flat" alt="nazish-kiran" /> </p>
 

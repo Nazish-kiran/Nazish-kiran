@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazish-kiran&label=Profile%20views&color=0e75b6&style=flat" alt="nazish-kiran" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React And Node**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nazish-kiran-90a9112b5/](https://www.linkedin.com/in/nazish-kiran-90a9112b5/)
 
-- 💬 Ask me about **JavaScript ,Bootstrap and ,CSS**
+- 💬 Ask me about **JavaScript ,React and ,Exrpess**
 
 - 📫 How to reach me **nazishkirancosmos123@gmail.com**
 
